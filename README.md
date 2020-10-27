@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   ☕ Coffe, much!  
   🎮 Games and Black screen!◼️  
   
-## 🤓 Also like and improve:
+## 🤓 Also have interest in:
   ☁️ Cloud with AWS, GCP!  
   🧑🏻‍💻 Clojure, Kotlin  
   🧪 Software Testing
