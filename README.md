@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3>About Me!</h3>
 
-  🙋🏻‍ Exploring new technologies, improve skills with distributed systems architecture in environment Cloud ☁️.  
+  🙋🏻‍ Exploring new technologies, improve skills with distributed systems architecture.  
   💼 Working as a Development team Leader at [Renault Brazil](https://renault.com.br).
 
 <h3>⚙️ Stack</h3>
