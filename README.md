@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Abraão Neves
-
-<h3>About Me!</h3>
+## About Me!
 
   🙋🏻‍ Exploring new technologies, improve skills with distributed systems architecture.  
   💼 Working as a Development team Leader at [Renault Brazil](https://renault.com.br).
 
-<h3>⚙️ Stack</h3>
+## ⚙️ Stack
 
   💻 &nbsp; ~ Java ● Junit ● Mockito ● Spring Stack ● Docker ● AWS ● GCP ● SQL ~  
   ⭐ &nbsp; ~ Ubuntu ● Intellij ● Vim ● ZSH ● VSCode ~
