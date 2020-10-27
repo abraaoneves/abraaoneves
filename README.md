@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   🧪 Software Testing
   
   
-![Abraao Neves GitHub Stats](https://github-readme-stats.vercel.app/api?username=abraaoneves&show_icons=true)
+[![Abraão Neves github stats](https://github-readme-stats.vercel.app/api?username=abraaoneves)](https://github.com/abraaoneves)
 
 
 <a href="https://www.linkedin.com/in/abraao-neves"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abraão%20Neves-blue?style=flat&logo=linkedin"></a>
