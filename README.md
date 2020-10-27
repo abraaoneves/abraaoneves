@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Abraão Neves!
+# I'm Abraão Neves
 
 <h3>About Me!</h3>
 
-  🙋🏻‍ Exploring new technologies, improve skills with distributed systems architecture, explore functional programming and Cloud ☁️.  
+  🙋🏻‍ Exploring new technologies, improve skills with distributed systems architecture in environment Cloud ☁️.  
   💼 Working as a Development team Leader at [Renault Brazil](https://renault.com.br).
 
 <h3>⚙️ Stack</h3>
