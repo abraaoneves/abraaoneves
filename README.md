@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   🧑🏻‍💻 Clojure, Kotlin  
   🧪 Software Testing
   
-[![Abraao's github stats](https://github-readme-stats.vercel.app/api?username=abraaoneves&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abraaoneves&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Abraao's github stats](https://github-readme-stats.vercel.app/api?username=abraaoneves&hide=contribs,issues&count_private=true&show_icons=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abraaoneves&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <a href="https://www.linkedin.com/in/abraao-neves"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abraão%20Neves-blue?style=flat&logo=linkedin"></a>
