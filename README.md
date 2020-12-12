@@ -9,10 +9,10 @@ More about me:
 - 💼 I'm currently working as a Development Team Leader at [Renault Brazil](https://renault.com.br).
 
 ## 🤩 Passions:
-  👨‍👩‍👧 Family.  
-  🤖 Tecnology.  
-  ☕ Coffe, gourmet!  
-  🎮 Games and Black screen!◼️
+- 👨‍👩‍👧 Family.  
+- 🤖 Tecnology.  
+- ☕ Coffe, gourmet!  
+- 🎮 Games and Black screen!◼️
 
 <details>
   <summary>:zap: Github Stats</summary>
