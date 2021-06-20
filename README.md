@@ -6,7 +6,7 @@ I'm Abraao, Software Engineer from Brazil and I'm passionate about technology. I
 
 More about me:
 - 🙋🏻‍ Exploring new technologies, improve skills with distributed systems architecture.
-- 💼 I'm currently working as a Development Team Leader at [Renault Brazil](https://renault.com.br).
+- 💼 I'm currently working as a Software Developer SR at [Mercado Pago](https://www.mercadopago.com.br).
 
 ## 🤩 Passions:
 - 👨‍👩‍👧 Family.  
