@@ -2,11 +2,11 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraao-neves/)
 
-I'm Abraao, Software Engineer from Brazil and I'm passionate about technology. I love to learn and contribute in any kind of project or chalange.
+I'm Abraao, Software Engineer from Brazil and I'm passionate about technology. I love to learn and contribute in any kind of chalange.
 
 More about me:
 - 🙋🏻‍ Exploring new technologies, improve skills with distributed systems architecture.
-- 💼 I'm currently working as a Software Developer SR at [Mercado Pago](https://www.mercadopago.com.br).
+- 💼 I'm currently working as a Software Developer at [Mercado Pago](https://www.mercadopago.com.br).
 
 ## 🤩 Passions:
 - 👨‍👩‍👧 Family.  
